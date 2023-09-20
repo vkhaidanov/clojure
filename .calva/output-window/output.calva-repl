@@ -26,3 +26,17 @@ clj꞉user꞉>  ; Use `alt+enter` to evaluate
 clj꞉user꞉> 
 ; Jack-in done.
 clj꞉user꞉> 
+; Syntax error reading source at (REPL:2:5).
+; Unsupported character: \ 2
+clj꞉user꞉> 
+#function[clojure.core//]
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+2
+clj꞉user꞉> 
+; Syntax error reading source at (REPL:2:5).
+; Unsupported character: \ 2
+clj꞉user꞉> 
+3
+clj꞉user꞉> 
