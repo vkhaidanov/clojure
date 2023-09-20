@@ -3,3 +3,7 @@
 .lsp/
 .nrepl-port
 all-in-one/.clj-kondo/.cache/v1/lock
+all-in-one/.clj-kondo/.cache/v1/clj/clojure.core.transit.json
+all-in-one/.clj-kondo/.cache/v1/clj/user.transit.json
+.gitignore
+all-in-one/.vscode/settings.json
