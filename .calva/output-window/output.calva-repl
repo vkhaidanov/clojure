@@ -29,4 +29,12 @@ clj꞉user꞉> (+ 1 2)
 3
 clj꞉user꞉> 
 6
+clj꞉user꞉> monitor-exit
+; Syntax error compiling at (.calva/output-window/output.calva-repl:0:0).
+; Unable to resolve symbol: monitor-exit in this context
+clj꞉user꞉>  exit
+; Syntax error compiling at (.calva/output-window/output.calva-repl:0:0).
+; Unable to resolve symbol: exit in this context
 clj꞉user꞉> 
+clj꞉user꞉> 
+; nREPL Connection was closed
